@@ -1,0 +1,46 @@
+header {
+    background-color: rgb(13, 209, 13);
+    padding: 5px;
+}
+
+header img {
+    width: 300px;
+    height: 200px;
+}
+
+header a{
+    background-color: rgb(1, 75, 1);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+     font-size: 50px;
+     border-radius: 10px;
+     border: 1px solid rgb(13, 209, 13);
+    margin: 10px;
+    padding: 5px;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    background-color: rgb(13, 209, 13);
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+p img {
+    height: 150px;
+    width: 300px;
+}
+h3 {
+    background-color: rgb(13, 209, 13);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.center{
+    text-align: center;
+}
